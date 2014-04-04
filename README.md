@@ -3,6 +3,9 @@ Sidekiq Cleaner
 
 Inspired from [ono/resque-cleaner](https://github.com/ono/resque-cleaner) and sidekiq-status.
 
+Sidekiq is widely used in [MovieLaLa.com](https://movielala.com)
+
+
 Description
 -----------
 
