@@ -25,6 +25,6 @@ Install as a gem:
 Many Thanks!
 ------------
 
-To ono for (https://github.com/ono/resque-cleaner/contributors)
+To ono for building the resque-cleaner
 
 
